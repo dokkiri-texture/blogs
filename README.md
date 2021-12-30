@@ -6,3 +6,6 @@
 - [Day 2：链表](https://github.com/dokkiri-texture/blogs/issues/2)
 - [Day 3：字符串（简单）](https://github.com/dokkiri-texture/blogs/issues/3)
 - [Day 4：查找算法（简单）](https://github.com/dokkiri-texture/blogs/issues/4)
+
+# 《Go语言设计与实现》读书笔记
+- [第一部分](https://github.com/dokkiri-texture/blogs/issues/5)
